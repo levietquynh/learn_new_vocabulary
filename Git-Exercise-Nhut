@@ -1,0 +1,38 @@
+Question 1: Steps when working
+
+----------Situation 1: New to the project
+Step 1: Clone project
+- Git clone
+Step 2: Check out from master to working on our local -- Create new branch
+- Git checkout -b <branch name>
+Step 3: Git status and git add to update the change into git
+- Git status
+- Git add .
+- Git status
+Step 4: Git push working's branch into main repository
+- Git push origin <branch name>
+Step 5: Create a PR and wait for merge
+
+----------Situation 2: Currently working with the project
+Step 1: Stay at master, pull latest code into our local
+- Git pull
+Step 2: Check out from master to working on our local -- Create new branch
+- Git checkout -b <branch name>
+Step 3: Git status and git add to update the change into git
+- Git status
+- Git add .
+- Git status
+Step 4: Git push working's branch into main repository
+- Git push origin <branch name>
+Step 5: Create a PR and wait for merge
+
+Question 2: Steps to rebase
+Step 1: git rebase master
+Step 2: git add .
+Step 3: git rebase continue
+
+
+
+
+
+--------- This is the part where you can leave a comment for me-------
