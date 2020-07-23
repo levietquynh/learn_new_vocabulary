@@ -8,13 +8,17 @@ Step 2: Check branch
 git branch
 Step 3: From master, Create new branch
 git checkout -b <branch name>
-Step 4: Update the change into git
+Step 4: Make changes or add code on the branch you just created
+code .
+Step 5: Update the change into git
 git status
 git add .
 git status
-Step 5: Push new branch into git
+Step 6 Commit
+git commit -m "<commit>"
+Step 7: Push new branch into git
 git push origin <branch name> 
-Step 6: Create PR and wait
+Step 8: Create PR and wait
 
 
 2. Rebase
