@@ -1,0 +1,38 @@
+1.Working with git
+Step 1: 
+- With new project: clone Project
+git clone <link>
+- With the current project: pull latest code of Project
+git pull
+Step 2: Check branch
+git branch
+Step 3: From master, Create new branch
+git checkout -b <branch name>
+Step 4: Update the change into git
+git status
+git add .
+git status
+Step 5: Push new branch into git
+git push origin <branch name> 
+Step 6: Create PR and wait
+
+
+2. Rebase
+Rebase not conflict
+Step 1: Rebase
+- git rebase master
+Step 2: Add file
+- git add .
+Step 3: Complete the rebase process
+- git rebase --continue
+
+Rebase conflict
+Step 1: Rebase
+- git rebase master
+Step 2: Resolve conflict
+- resolve a conflict by manually editing the file 
+delete the ‘<<<<<<<’, ‘=======’, and’>>>>>>>’ in the file and keep the change you want 
+Step 3: Add file
+- git add .
+Step 4: Complete the rebase process
+- git rebase --continue
