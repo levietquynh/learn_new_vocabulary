@@ -1,0 +1,22 @@
+Assume in master branch
++ git pull origin master
++ git checkout -b workspace
++ git status
++ git add .
++ git commit -m “add workspace 1”
++ git push origin workspace 
+create PR
+
+Assume not conflict
++ git rebase master
++ git add .
++ git status
++ git rebase --continue
+
+
+Assume conflict
++ git rebase master
+You need to resolve a conflict by manually editing the file. You also need to delete the ‘<<<<<<<’, ‘=======’, and’>>>>>>>’ in the file.
++ git add .
++ git status
++ git rebase --continue
