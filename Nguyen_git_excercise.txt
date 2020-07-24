@@ -13,7 +13,6 @@
 * Rebase: Assume on branch want to rebase *
 - Rebase not conflict 
 1. git rebase master
-2. <do something on code>
 2. git add .
 3. git rebase --continue
 
