@@ -1,14 +1,24 @@
-*Assume on master branch, create Sign up branch*
+* Assume on master branch, create Sign up branch *
 1. git pull origin master
 2. git checkout -b sign-up
-3. git status
-4. git add file1
+3. git branch
+4. <edit-change code>
 5. git status
-6. git commit -m "Add file1"
-7. git push origin sign-up
+6. git add .
+7. git status
+8. git commit -m "Add file1, file 2, file 3"
+9. git push origin sign-up
+10. Create PR
 
-* Rebase *
-on branch want to rebase
+* Rebase: Assume on branch want to rebase *
+- Rebase not conflict
 1. git rebase master
-2. git add file1 file2 etc
+2. <do something on code>
+2. git add .
 3. git rebase --continue
+
+- Rebase conflict
+1. git rebasse master
+2. Handle conflict (compare and accept current/incomming)
+3. git add .
+4. git rebase --continue
