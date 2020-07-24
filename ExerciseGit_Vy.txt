@@ -14,7 +14,7 @@ Step 5: Update the change into git
 git status
 git add .
 git status
-Step 6 Commit
+Step 6: Commit
 git commit -m "<commit>"
 Step 7: Push new branch into git
 git push origin <branch name> 
@@ -23,20 +23,51 @@ Step 8: Create PR and wait
 
 2. Rebase
 Rebase not conflict
-Step 1: Rebase
-- git rebase master
-Step 2: Add file
+Step 1: checkout master
+- git checkout master
+Step 2: pull latest code
+- git pull
+Step 3: check branch
+- git checkout <branch name>
+Step 4: Make changes or add code on the branch you just created
+code .
+Step 5: Update the change into git
+- git status
 - git add .
-Step 3: Complete the rebase process
-- git rebase --continue
+- git status
+Step 6: Commit
+- git commit -m "<commit>"
+Step 7: Rebase
+- git rebase master
+Step 8: Check status
+- git status
+Step 9: Push
+- git push -f origin <branch>
+Step 10: Create PR and wait
+
 
 Rebase conflict
-Step 1: Rebase
+Step 1: checkout master
+- git checkout master
+Step 2: pull latest code
+- git pull
+Step 3: check branch
+- git checkout <branch name>
+Step 4: Make changes or add code on the branch you just created
+code .
+Step 5: Update the change into git
+- git status
+- git add .
+- git status
+Step 6: Commit
+- git commit -m "<commit>"
+Step 7: Rebase
 - git rebase master
-Step 2: Resolve conflict
+Step 8: Resolve conflict
 - resolve a conflict by manually editing the file 
 delete the ‘<<<<<<<’, ‘=======’, and’>>>>>>>’ in the file and keep the change you want 
-Step 3: Add file
-- git add .
-Step 4: Complete the rebase process
-- git rebase --continue
+Step 9: Check status
+- git status
+Step 10: Push
+- git push -f origin <branch>
+Step 11: Create PR and wait
