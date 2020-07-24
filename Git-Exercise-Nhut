@@ -5,13 +5,14 @@ Step 1: Clone project
 - Git clone
 Step 2: Check out from master to working on our local -- Create new branch
 - Git checkout -b <branch name>
-Step 3: Git status and git add to update the change into git
+Step 3: working on local branch
+Step 4: Git status and git add to update the change into git
 - Git status
 - Git add .
 - Git status
-Step 4: Git push working's branch into main repository
+Step 5: Git push working's branch into main repository
 - Git push origin <branch name>
-Step 5: Create a PR and wait for merge
+Step 6: Create a PR and wait for merge
 
 ----------Situation 2: Currently working with the project
 Step 1: Stay at master, pull latest code into our local
