@@ -3,6 +3,7 @@ Question 1: Steps when working
 ----------Situation 1: New to the project
 Step 1: Clone project
 - Git clone
+- Git pull
 Step 2: Check out from master to working on our local -- Create new branch
 - Git checkout -b <branch name>
 Step 3: working on local branch
@@ -28,9 +29,20 @@ Step 4: Git push working's branch into main repository
 Step 5: Create a PR and wait for merge
 
 Question 2: Steps to rebase
-Step 1: git rebase master
-Step 2: git add .
-Step 3: git rebase continue
+
+---------- Working with update latest code
+Step 1: git checkout master
+Step 2: git pull
+Step 3: git checkout <current branch>
+Step 4: git status
+Step 5: git add .
+Step 6: git commit 
+Step 7: git rebase master
+Step 8: git status
+Step 9: git add .
+Step 10: git commit
+Option step: git rebase --continue
+Step 11: git push -f origin
 
 
 
