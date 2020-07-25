@@ -57,6 +57,7 @@ confees /kənˈfes/
 - To admit that you have done something wrong or something that you feel guilty or bad about
 Ex: He confessed to the crime.
 
+<<<<<<< HEAD
 25th July 2020
 
 Quynh
@@ -78,3 +79,9 @@ Nguyen
 Criticize /'krɪt.ɪ.saɪz/
 - To express disagreement with or disapproval of something or someone
 Ex: Some groups were quick to criticize the president.
+=======
+Phuc
+Spirit /ˈspɪr.ət/
+A particular way of thinking, feeling, or behaving, especially a way that is typical of a particular group of people, an activity, a time, or a place
+Ex: The players have a very strong team spirit
+>>>>>>> Add word 2507
