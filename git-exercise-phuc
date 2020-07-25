@@ -1,6 +1,7 @@
 Assume in master branch
 + git pull origin master
 + git checkout -b workspace
+Coding - save
 + git status
 + git add .
 + git commit -m “add workspace 1”
@@ -8,15 +9,25 @@ Assume in master branch
 create PR
 
 Assume not conflict
-+ git rebase master
+Coding - save
++ git status
 + git add .
 + git status
-+ git rebase --continue
-
++ git commit -m "add new file" 
++ git rebase master
++ git push -f origin workspace
+create PR
 
 Assume conflict
++ git status
++ git add .
++ git status
++ git commit -m "add new file" 
 + git rebase master
 You need to resolve a conflict by manually editing the file. You also need to delete the ‘<<<<<<<’, ‘=======’, and’>>>>>>>’ in the file.
 + git add .
 + git status
++ git commit -m "add new file" 
 + git rebase --continue
++ git push -f origin workspace
+create PR
