@@ -66,8 +66,10 @@ Step 7: Rebase
 Step 8: Resolve conflict
 - resolve a conflict by manually editing the file 
 delete the ‘<<<<<<<’, ‘=======’, and’>>>>>>>’ in the file and keep the change you want 
-Step 9: Check status
+Step 9: continue rebase
+- git rebase --continue
+Step 10: Check status
 - git status
-Step 10: Push
+Step 11: Push
 - git push -f origin <branch>
-Step 11: Create PR and wait
+Step 12: Create PR and wait
