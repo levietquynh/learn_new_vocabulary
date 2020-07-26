@@ -1,0 +1,36 @@
+Here is the result for my GIT exercise, I had been doing some demo before doing this report
+I'm going to write down all of the steps that I had made in Here
+
+========= First situation: when I working alone in one project
+
+Step 1: 
+- Start to create a repository in GitHub
+Note: GitHub will guide us how to implement git into existed project from our local computer
+- Using HTTPs link address and clone the repository into our computer => become our local's environment
+- Stay at the master branch
+Step 2 (when working with one project, we need to create child branch to make sure everything are working fine)
+- git checkout -b <child_branch_name>
+- work and work on that child branch
+- git add . 
+- git status (to make sure that changed had applied and recognized in our repo)
+- git commit -m "commit"
+- git push origin <child_branch_name>
+Step 3:
+- go to github's page and create a PR 
+- merge into master or we can use command in terminal: git merge <child_branch_name>
+
+========= Second situation: when I working with others in the project
+The other person is user 1, he/she have pushed code and merged into the master branch in our repo
+I'm calling myself as user 2 in here and I haven't pulled the latest code into my master branch in local
+Step 1: 
+- git checkout -b "user2"
+- work on that child branch
+- git status
+- git add .
+- git commit -m "User 2 commit"
+- git rebase "user1"
+** In this line, git will receive our commit and see that we had changed something in the project
+** I use visual code to check what I had changed to commit from it
+** It will combine everything I changed into user1 line in git's graph => make graph look much better
+- git rebase --continue to check if there is any conflict on it, if not, we will direct to our branch automatically, can see it from terminal
+- git push origin user2
