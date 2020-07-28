@@ -1,11 +1,11 @@
 Assume in master branch
 + git pull origin master
-+ git checkout -b workspace
++ git checkout -b <branchname>
 Coding - save
 + git status
 + git add .
 + git commit -m “add workspace 1”
-+ git push origin workspace 
++ git push origin <branchname>
 create PR
 
 Assume not conflict
@@ -14,20 +14,27 @@ Coding - save
 + git add .
 + git status
 + git commit -m "add new file" 
++ git checkout master
++ git pull 
++ git checkout <branchname>
 + git rebase master
-+ git push -f origin workspace
++ git push -f origin <branchname>
 create PR
 
 Assume conflict
+Coding - save
 + git status
 + git add .
 + git status
 + git commit -m "add new file" 
++ git checkout master
++ git pull 
++ git checkout <branchname>
 + git rebase master
 You need to resolve a conflict by manually editing the file. You also need to delete the ‘<<<<<<<’, ‘=======’, and’>>>>>>>’ in the file.
 + git add .
 + git status
 + git commit -m "add new file" 
 + git rebase --continue
-+ git push -f origin workspace
++ git push -f origin <branchname>
 create PR
