@@ -37,13 +37,19 @@ Step 5: Update the change into git
 - git status
 Step 6: Commit
 - git commit -m "<commit>"
-Step 7: Rebase
+Step 7: checkout master
+- git checkout master
+Step 8: pull latest code
+- git pull
+Step 9: checkout branch
+- git checkout <branch name>
+Step 10: Rebase
 - git rebase master
-Step 8: Check status
+Step 11: Check status
 - git status
-Step 9: Push
+Step 12: Push
 - git push -f origin <branch>
-Step 10: Create PR and wait
+Step 13: Create PR and wait
 
 
 Rebase conflict
@@ -61,15 +67,21 @@ Step 5: Update the change into git
 - git status
 Step 6: Commit
 - git commit -m "<commit>"
-Step 7: Rebase
+Step 7: checkout master
+- git checkout master
+Step 8: pull latest code
+- git pull
+Step 9: checkout branch
+- git checkout <branch name>
+Step 10: Rebase
 - git rebase master
-Step 8: Resolve conflict
+Step 11: Resolve conflict
 - resolve a conflict by manually editing the file 
 delete the ‘<<<<<<<’, ‘=======’, and’>>>>>>>’ in the file and keep the change you want 
-Step 9: continue rebase
+Step 12: continue rebase
 - git rebase --continue
-Step 10: Check status
+Step 13: Check status
 - git status
-Step 11: Push
+Step 14: Push
 - git push -f origin <branch>
-Step 12: Create PR and wait
+Step 15: Create PR and wait
