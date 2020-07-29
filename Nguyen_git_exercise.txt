@@ -1,7 +1,7 @@
 I/ CHECKOUT BRANCH & PUSH TO NEW BRANCH
 
 * Assume on master branch *
-1. git pull origin master
+1. git pull
 2. git checkout -b <your branch name>
 3. git branch
 4. <edit-change code on local>
@@ -12,20 +12,19 @@ I/ CHECKOUT BRANCH & PUSH TO NEW BRANCH
 9. git push origin <your branch name>
 10. Create PR
 
-* On the other child branch, given user doing something on this child branch *
-1. git add .
-2. git commit -m "Doing ST"
-3. git checkout master
-4. git pull origin master
-5. git checkout -b <your branch name>
-6. git branch
-7. <edit-change code on local>
-8. git status
-9. git add .
-10. git status
-11. git commit -m "Add file1, file 2, file 3"
-12. git push origin <your branch name>
-13. Create PR
+* On the other child branch *
+1. git branch
+2. git checkout master
+3. git pull 
+4. git checkout -b <your new branch name>
+5. git branch
+6. <edit-change code on local>
+7. git status
+8. git add .
+9. git status
+10. git commit -m "Add file1, file 2, file 3"
+11. git push origin <your new branch name>
+12. Create PR
 
 II. REBASE
 * Rebase: Assume user is on branch want to rebase *
@@ -57,9 +56,10 @@ II. REBASE
 11. git checkout <your branch name>
 12. git rebase master
 13. Handle conflict /*compare and accept current/incomming/both....*/
-14. git rebase --continue
-15. Handle conflict again /*if still exists conflicts*/
-16. git add .
-16. Do step 14 and 16 again until there is no conflict left
-17. git push -f origin <your branch name>
-18. Create PR
+14. git add .
+15. git rebase --continue
+16. Handle conflict again /*if still exists conflicts*/
+17. git add .
+18. Do step 14 and 16 again until there is no conflict left
+19. git push -f origin <your branch name>
+20. Create PR
