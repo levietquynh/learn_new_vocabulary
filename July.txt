@@ -142,7 +142,7 @@ Ex: an illness caused by bacteria in drinking water
 28th July 2020
 Quynh
 infection  /ɪnˈfek.ʃən/
-a disease in a part of your body that is caused by bacteria or a virus
+- a disease in a part of your body that is caused by bacteria or a virus
 Ex: The breathing problem has now been complicated by a chest infection.
 
 Nhut
@@ -166,7 +166,17 @@ tingle /ˈtɪŋ.ɡəl/
 Ex: My fingers and toes are tingling with the cold.
 
 29th July 2020
+
 Phuc
 Transition  /trænˈzɪʃ.ən/
 - A change from one form or type to another, or the process by which this happens
 Ex: The health-care system is in transition at the moment.
+
+Nhut
+Diabetes /ˌdaɪ.əˈbiː.t̬əs/
+Meaning: a disease in which the body cannot control the level of sugar in the blood
+
+Quynh
+immune /ɪˈmjuːn/
+- protected against a particular disease by particular substances in the blood
+Ex: He seems to be immune to colds - he just never gets them.
