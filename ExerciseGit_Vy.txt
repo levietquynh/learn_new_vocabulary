@@ -6,8 +6,12 @@ git clone <link>
 git pull
 Step 2: Check branch
 git branch
-Step 3: From master, Create new branch
-git checkout -b <branch name>
+Step 3: Create new branch
+-  Assume on master branch
+git checkout -b <new branch name>
+- On the other child branch 
+git checkout master 
+git checkout -b <new branch name>
 Step 4: Make changes or add code on the branch you just created
 code .
 Step 5: Update the change into git
@@ -78,10 +82,15 @@ Step 10: Rebase
 Step 11: Resolve conflict
 - resolve a conflict by manually editing the file 
 delete the ‘<<<<<<<’, ‘=======’, and’>>>>>>>’ in the file and keep the change you want 
-Step 12: continue rebase
-- git rebase --continue
-Step 13: Check status
+Step 12: Update the change into git
+- git add .
 - git status
-Step 14: Push
+Step 13: Commit
+- git commit -m "<commit>"
+Step 14: continue rebase
+- git rebase --continue
+Step 15: Check status
+- git status
+Step 16: Push
 - git push -f origin <branch>
-Step 15: Create PR and wait
+Step 17: Create PR and wait
