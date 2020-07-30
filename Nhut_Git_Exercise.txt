@@ -1,0 +1,55 @@
+------- First Part-------
+First situation: we stay in master branch
+Step 1: git pull
+Step 2: git checkout -b <child_branch_name>
+Step 3: working on it and save your code
+Step 4: git status
+Step 5: git add .
+Step 6: git commit -m “write down your commit - what you have done”
+Step 7: git push origin <child_branch_name>
+Step 8: create PR
+
+Second situation: stay at the different branch, not the one we want to continue our work
+Step 1: git checkout master
+Step 2: git pull
+Step 3: git checkout -b <child_branch_name>
+Step 4: working on it and save your code
+Step 5: git status
+Step 6: git add .
+Step 7: git commit -m “write down your commit - what you have done”
+Step 8: git push origin <child_branch_name>
+Step 9: create PR
+
+
+-------Second Part-------
+First situation: rebase and no conflict
+Step 1: working done and save your code
+Step 2: git status
+Step 3: git add .
+Step 4: git commit -m "add new file" 
+Step 5: git checkout master
+Step 6: git pull 
+Step 7: git checkout <child_branch_name>
+Step 8: git rebase master
+Step 9: git push -f origin <branchname>
+Step 10: create PR
+
+Second situation: rebase and have conflict(s)
+* Working on your branch
+Step 1: git status
+Step 2: git add .
+Step 3: git commit -m "add new file" 
+Step 4: git checkout master
+Step 5: git pull 
+Step 6: git checkout <child_branch_name>
+Step 7: git rebase master
+Step 8: using one of the tool to help, my case I'm using visual code
+Note: three states
+- Accept both changes
+- Accept current changes
+- Accept incoming changes
+Choose one of these three, up to you
+After that, add the changed you have made into your commit from step 3
+Step 9: git rebase --continue
+Step 10: git push -f origin <branchname>
+Step 11: create PR
