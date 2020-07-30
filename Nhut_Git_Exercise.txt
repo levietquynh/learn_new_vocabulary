@@ -49,9 +49,7 @@ Note: three states
 - Accept current changes
 - Accept incoming changes
 Choose one of these three, up to you
-Step 9: git add .
-Step 10: git status
-Step 11: git commit -m "Your commit" 
-Step 12: git rebase --continue
-Step 13: git push -f origin <branchname>
-Step 14: create PR
+After that, add the changed you have made into your commit from step 3
+Step 9: git rebase --continue
+Step 10: git push -f origin <branchname>
+Step 11: create PR
