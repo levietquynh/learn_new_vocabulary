@@ -1,37 +1,57 @@
-Here is the result for my GIT exercise, I had been doing some demo before doing this report
-I'm going to write down all of the steps that I had made in Here
+------- First Part-------
+First situation: we stay in master branch
+Step 1: git pull
+Step 2: git checkout -b <child_branch_name>
+Step 3: working on it and save your code
+Step 4: git status
+Step 5: git add .
+Step 6: git commit -m “write down your commit - what you have done”
+Step 7: git push origin <child_branch_name>
+Step 8: create PR
 
-========= First situation: when I working alone in one project
+Second situation: stay at the different branch, not the one we want to continue our work
+Step 1: git checkout master
+Step 2: git pull
+Step 3: git checkout -b <child_branch_name>
+Step 4: working on it and save your code
+Step 5: git status
+Step 6: git add .
+Step 7: git commit -m “write down your commit - what you have done”
+Step 8: git push origin <child_branch_name>
+Step 9: create PR
 
-Step 1: 
-- Start to create a repository in GitHub
-Note: GitHub will guide us how to implement git into existed project from our local computer
-- Using HTTPs link address and clone the repository into our computer => become our local's environment
-- Stay at the master branch
-Step 2 (when working with one project, we need to create child branch to make sure everything are working fine)
-- git checkout -b <child_branch_name>
-- work and work on that child branch
-- git add . 
-- git status (to make sure that changed had applied and recognized in our repo)
-- git commit -m "commit"
-- git push origin <child_branch_name>
-Step 3:
-- go to github's page and create a PR 
-- merge into master or we can use command in terminal: git merge <child_branch_name>
 
-========= Second situation: when I working with others in the project
-The other person is user 1, he/she have pushed code and merged into the master branch in our repo
-I'm calling myself as user 2 in here and I haven't pulled the latest code into my master branch in local
-Steps:
-- If I stay in my child branch, I have to checkout master to pull latest code: git checkout master and git pull
-- git checkout -b "user2"
-- work on that child branch
-- git status
-- git add .
-- git commit -m "User 2 commit"
-- git rebase master
-** In this line, git will receive our commit and see that we had changed something in the project
-** I use visual code to check what I had changed to commit from it
-** It will combine everything I changed into master line in git's graph => make graph look much better
-- git rebase --continue to check if there is any conflict on it, if not, we will direct to our branch automatically, can see it from terminal
-- git push origin user2
+-------Second Part-------
+First situation: rebase and no conflict
+Step 1: working done and save your code
+Step 2: git status
+Step 3: git add .
+Step 4: git commit -m "add new file" 
+Step 5: git checkout master
+Step 6: git pull 
+Step 7: git checkout <child_branch_name>
+Step 8: git rebase master
+Step 9: git push -f origin <branchname>
+Step 10: create PR
+
+Second situation: rebase and have conflict(s)
+* Working on your branch
+Step 1: git status
+Step 2: git add .
+Step 3: git commit -m "add new file" 
+Step 4: git checkout master
+Step 5: git pull 
+Step 6: git checkout <child_branch_name>
+Step 7: git rebase master
+Step 8: using one of the tool to help, my case I'm using visual code
+Note: three states
+- Accept both changes
+- Accept current changes
+- Accept incoming changes
+Choose one of these three, up to you
+Step 9: git add .
+Step 10: git status
+Step 11: git commit -m "Your commit" 
+Step 12: git rebase --continue
+Step 13: git push -f origin <branchname>
+Step 14: create PR
