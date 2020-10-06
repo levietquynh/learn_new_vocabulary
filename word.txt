@@ -7,7 +7,10 @@ Meaning: to include different types of things
 Sentence: The festival is to encompass everything from music, theatre, and ballet to literature, cinema, and the visual arts
 
 Hieu:
-excavation
+excavation /ˌeks.kəˈveɪ.ʃən/
+noun.
+Meaning: The act of removing earth that is covering very old objects buried in the ground in order to discover things about the past.
+Sentence: Three skulls and one full skeleton were discovered during the excavation of an Egyptian tomb.
 
 Nhut:
 function /ˈfʌŋk.ʃən/
@@ -21,7 +24,9 @@ Phuc:
 inscribe
 
 Hieu:
-literacy
+literacy /ˈlɪt̬.ɚ.ə.si/
+Meaning: the ability to read and write.
+Sentence: The country has a literacy rate of almost 98%.
 
 Nhut:
 mythology
