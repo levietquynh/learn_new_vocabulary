@@ -29,7 +29,12 @@ Meaning: the ability to read and write.
 Sentence: The country has a literacy rate of almost 98%.
 
 Nhut:
-mythology
+mythology /məˈTHäləjē/
+Meaning:
+- a collection of myths, especially one belonging to a particular religious or cultural tradition.
+- a set of stories or beliefs about a particular person, institution, or situation, especially when exaggerated or fictitious.
+- the study of myths.
+Sentence: We have been studying ancient Greek mythology.
 --------------------
 7/10
 Phuc:
