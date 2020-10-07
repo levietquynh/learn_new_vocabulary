@@ -21,7 +21,10 @@ Sentence: The function of the veins is to carry blood to the heart
 6/10
 
 Phuc:
-inscribe
+inscribe /ɪnˈskraɪb/
+verb.
+Meaning: to write words in a book or cut words onto the surface of an object
+Sentence: She inscribed the book, "To my number-one fan."
 
 Hieu:
 literacy /ˈlɪt̬.ɚ.ə.si/
@@ -38,7 +41,10 @@ Sentence: We have been studying ancient Greek mythology.
 --------------------
 7/10
 Phuc:
-property
+property /ˈprɑː.pɚ.t̬i/
+n.
+Meaning: a building or area of land, or both together
+Sentence: He owns a number of properties on the south coast
 
 Hieu:
 scholar
