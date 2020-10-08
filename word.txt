@@ -48,8 +48,9 @@ Meaning: a building or area of land, or both together
 Sentence: He owns a number of properties on the south coast
 
 Hieu:
-scholar
-
+scholar  /ˈskɑː.lɚ/
+Meaning: a person who studies a subject in great detail, especially at a university:
+Sentence: Dr Miles was a distinguished scholar of Russian history.
 Nhut:
 settle /ˈset̬.əl/
 verb.
@@ -60,9 +61,10 @@ Sentence: Good, that's all settled - you send out the invitations for the party,
 Phuc:
 specialized
 
-Hieu:
-structure
-
+Hieu: 
+structure /ˈstrʌk.tʃɚ/
+Meaning: the way in which the parts of a system or object are arranged or organized, or a system arranged in this way.
+Sentence: the grammatical structure of a sentence.
 Nhut:
 tablet /ˈtæb.lət/
 noun.
