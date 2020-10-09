@@ -79,7 +79,9 @@ Phuc:
 token
 
 Hieu:
-accompany
+accompany /əˈkʌm.pə.ni/
+Meaning: to go with someone or to be provided or exist at the same time as something.
+Sentence: The course books are accompanied by four CDs.
 
 Nhut:
 altar
