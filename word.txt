@@ -59,7 +59,10 @@ Sentence: Good, that's all settled - you send out the invitations for the party,
 ---------------
 8/10
 Phuc:
-specialized
+specialized /ˈspeʃ.ə.laɪzd/
+adj.
+Meaning: working in and knowing a lot about one particular subject, skill, service, etc.
+Sentence: The hospital is unable to provide the highly specialized care needed by very sick babies
 
 Hieu: 
 structure /ˈstrʌk.tʃɚ/
