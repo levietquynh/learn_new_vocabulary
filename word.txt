@@ -82,7 +82,10 @@ Hieu:
 accompany
 
 Nhut:
-altar
+altar /ˈɑːl.tɚ/
+noun.
+Meaning: a type of table used in ceremonies in a Christian church or in other religious buildings
+Sentence: Years ago he had been jilted at the altar by a girl he thought he loved
 ------------------
 10/10
 Phuc:
