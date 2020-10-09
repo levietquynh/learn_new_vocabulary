@@ -76,7 +76,10 @@ Sentence: He'd taken a sleeping tablet the night before and still felt dopey
 ------------------
 9/10
 Phuc:
-token
+token /ˈtoʊ.kən/
+n.
+Meaning: something you give to someone or do for someone to express your feelings or intentions
+Sentence: It isn’t a big present – it’s just a token of thanks for your help
 
 Hieu:
 accompany
