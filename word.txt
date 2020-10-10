@@ -97,7 +97,11 @@ Sentence: Years ago he had been jilted at the altar by a girl he thought he love
 ------------------
 10/10
 Phuc:
-benefit
+benefit /ˈben.ə.fɪt/
+noun.
+Meaning: a helpful or good effect, or something intended to help
+Sentence: he discovery of oil brought many benefits to the town
+
 
 Hieu:
 celebration /ˌsel.əˈbreɪ.ʃən/
@@ -112,7 +116,10 @@ Sentence: The thought of how much work she had to do discouraged her.
 --------------------
 11/10
 Phuc:
-elaborate
+elaborate /iˈlæb.ɚ.ət/
+adj.
+Meaning: containing a lot of careful detail or many detailed parts
+Sentence: They're making the most elaborate preparations for the wedding
 
 Hieu:
 energetic /ˌen.ɚˈdʒet̬.ɪk/
