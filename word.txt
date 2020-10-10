@@ -103,7 +103,10 @@ Hieu:
 celebration
 
 Nhut:
-discourage
+discourage /dɪˈskɝː.ɪdʒ/
+verb.
+Meaning: to make someone feel less confident, enthusiastic, and positive about something, or less willing to do something
+Sentence: The thought of how much work she had to do discouraged her.
 --------------------
 11/10
 Phuc:
@@ -113,5 +116,7 @@ Hieu:
 energetic
 
 Nhut:
-evidence
-
+evidence /ˈev.ə.dəns/
+noun.
+Meaning: one or more reasons for believing that something is or is not true
+Sentence: The police have found no evidence of a terrorist link with the murder.
