@@ -43,8 +43,9 @@ Sentence: We have been studying ancient Greek mythology.
 
 Phuc:
 property /ˈprɑː.pɚ.t̬i/
-Meaning: to include different types of things
-Sentence: The festival is to encompass everything from music, theatre, and ballet to literature, cinema, and the visual arts
+n.
+Meaning: a building or area of land, or both together
+Sentence: He owns a number of properties on the south coast
 
 Hieu:
 scholar  /ˈskɑː.lɚ/
