@@ -38,7 +38,10 @@ Sentence: He has a huge amount of influence over the city council.
 -----------------------------------------
 14/10
 Phuc
-reign
+reign /reɪn/
+verb.
+Meaning: to be the king or queen of a country
+Sentence: Queens have reigned in Britain for 111 of the last 163 years
 
 Hieu
 revive
