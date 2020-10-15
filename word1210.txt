@@ -24,11 +24,9 @@ Meaning: moving in a smooth, relaxed, attractive way, or having a smooth, attrac
 Sentence: She is a wonderfully graceful dancer
 
 Hieu
-image
-Meaning:
-Meaning:
-Meaning:
-Meaning:
+image: /ˈɪm.ɪdʒ/
+Meaning: a picture in your mind or an idea of how someone or something is
+Sentence: I have an image in my mind of how I want the garden to be.
 
 Nhut
 influence /ˈɪn.flu.əns/
@@ -41,7 +39,9 @@ Phuc
 reign
 
 Hieu
-revive
+revive /rɪˈvaɪv/
+Meaning: to come or bring something back to life, health, existence, or use
+Sentence: My plants revived as soon as I gave them some water
 
 Nhut
 ritual /ˈrɪtʃ.u.əl/
@@ -57,7 +57,9 @@ Meaning: a set idea that people have about what someone or something is like, es
 Sentence: The characters in the book are just stereotypes
 
 Hieu
-sway
+sway /sweɪ/
+Meaning: to move slowly from side to side
+Sentence: The trees were swaying in the wind
 
 Nhut
 tradition /trəˈdɪʃ.ən/
