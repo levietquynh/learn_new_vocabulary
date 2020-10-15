@@ -5,6 +5,7 @@ pull: git pull origin <branch name>
 rebase (not conflit): git rebase <branch name>
 
 rebase (conflict):
+git checkout <name branch>
 git pull origin master
 git rebase master
 code . (resolve conflict)
