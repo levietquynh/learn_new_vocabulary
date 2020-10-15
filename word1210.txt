@@ -51,7 +51,10 @@ Sentence: Coffee and the newspaper are part of my morning ritual.
 -----------------------------------------
 15/10
 Phuc
-stereotype
+stereotype /ˈster.i.ə.taɪp/
+noun.
+Meaning: a set idea that people have about what someone or something is like, especially an idea that is wrong
+Sentence: The characters in the book are just stereotypes
 
 Hieu
 sway
