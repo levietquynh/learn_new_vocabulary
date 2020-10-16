@@ -72,7 +72,9 @@ Phuc
 abstract
 
 Hieu
-atmosphere
+atmosphere /ˈæt.mə.sfɪr/
+Meaning: the mixture of gases around the earth.
+Sentence: These factories are releasing toxic gases into the atmosphere.
 
 Nhut
 conflict /ˈkɑːn.flɪkt/
