@@ -72,7 +72,10 @@ Sentence: Fireworks have long been an American tradition on the Fourth of July.
 -----------------------------------------
 16/10
 Phuc
-abstract
+abstract /ˈæb.strækt/
+adj.
+Meaning: existing as an idea, feeling, or quality, not as a material object
+Sentence: Truth and beauty are abstract concepts
 
 Hieu
 atmosphere /ˈæt.mə.sfɪr/
