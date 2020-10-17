@@ -1,0 +1,16 @@
+add: git add <name file> or git add .
+commit: git commit -m <content commit>
+push: git push origin <branch name>
+pull: git pull origin <branch name>
+rebase (not conflit): git rebase <branch name>
+
+rebase (conflict):
+git checkout master
+git pull
+git checkout <name branch>
+git rebase master
+code . (resolve conflict)
+git add .
+git commit -m "content of new file"
+git rebase --continue
+git push origin --force <name branch>
