@@ -6,7 +6,9 @@ Hieu
 humorous
 
 Nhut
-illusion
+illusion - noun - /ɪˈluː.ʒən/
+Meaning: an idea or belief that is not true
+Sentence: He had no illusions about his talents as a singer.
 ----------------------------------------
 20/10
 Phuc
@@ -16,7 +18,9 @@ Hieu
 merge
 
 Nhut
-portray
+portray - verb -  /pɔːrˈtreɪ/
+Meaning: to represent or describe someone or something in a painting, film, book, or other artistic work
+Sentence: The painting portrays a beautiful young woman in a blue dress.
 ----------------------------------------
 21/10
 Phuc
@@ -26,7 +30,9 @@ Hieu
 prop
 
 Nhut
-reminiscent
+reminiscent - adj - /ˌrem.əˈnɪs.ənt/
+Meaning: making you remember a particular person, event, or thing
+Sentence: That song is so reminiscent of my adolescence.
 ----------------------------------------
 22/10
 Phuc
@@ -36,7 +42,9 @@ Hieu
 sharpen
 
 Nhut
-abroad
+abroad - adverb - /əˈbrɑːd/
+Meaning: in or to a foreign country or countries
+Sentence: He's currently abroad on business.
 ----------------------------------------
 23/10
 Phuc
@@ -46,7 +54,9 @@ Hieu
 bulk
 
 Nhut
-complex
+complex - adj - /kɑːmˈpleks/
+Meaning: difficult to understand or find an answer to because of having many different parts
+Sentence: It's a very complex issue to which there is no straightforward answer.
 ----------------------------------------
 24/10
 Phuc
@@ -56,7 +66,9 @@ Hieu
 decade
 
 Nhut
-decline
+decline - verb - /dɪˈklaɪn/
+Meaning: to gradually become less, worse, or lower
+Sentence: His interest in the project declined after his wife died
 ----------------------------------------
 25/10
 Phuc
@@ -66,5 +78,7 @@ Hieu
 estimate
 
 Nhut
-lure
+lure - noun - /lʊr/
+Meaning: the quality or power that something or someone has that makes it, him, or her attractive
+Sentence: He could not resist the lure of great riches
 ----------------------------------------
