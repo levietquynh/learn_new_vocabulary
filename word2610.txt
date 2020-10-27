@@ -3,7 +3,9 @@ Phuc
 primary
 
 Hieu
-qualified
+qualified /ˈkwɑl·əˌfɑɪd/
+Meaning: having the standard of skill, knowledge, or ability that is necessary for doing or being something
+Sentence: She was extraordinarily well qualified to run the State Department.
 
 Nhut
 rampant - adj - /ˈræm.pənt/
@@ -12,7 +14,10 @@ Sentence: He said that he had encountered rampant prejudice in his attempts to g
 ----------------------------------------
 27/10
 retain
-rudimentary
+
+rudimentary /ˌruː.dəˈmen.tər.i/
+Meaning: only basic, and not deep or detailed
+Sentence: She has only a rudimentary grasp of the language.
 
 shortage - noun - /ˈʃɔːr.t̬ɪdʒ/
 Meaning: a situation in which there is not enough of something
