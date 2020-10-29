@@ -28,7 +28,10 @@ Meaning: a situation in which there is not enough of something
 Sentence: There's a shortage of food and shelter in the refugee camps.
 ----------------------------------------
 28/10
-standpoint
+standpoint /ˈstænd.pɔɪnt/
+Meaning: a set of beliefs and ideas from which opinions and decisions are formed
+Sentence: He looks at things from a technological standpoint
+
 stem
 
 supply - verb - /səˈplaɪ/
