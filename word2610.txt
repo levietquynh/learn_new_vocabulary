@@ -40,7 +40,10 @@ Sentence: Electrical power is supplied by underground cables.
 ----------------------------------------
 29/10
 vacancy
-aerobic
+
+aerobic  /erˈoʊ.bɪk/
+Meaning: involving, needing, or relating to oxygen
+Sentence: The great majority of all living organisms are aerobic, requiring oxygen for respiration.
 
 capacity - noun - /kəˈpæs.ə.t̬i/
 Meaning: the total amount that can be contained or produced
