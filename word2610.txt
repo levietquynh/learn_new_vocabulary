@@ -28,7 +28,9 @@ Meaning: a situation in which there is not enough of something
 Sentence: There's a shortage of food and shelter in the refugee camps.
 ----------------------------------------
 28/10
-standpoint
+standpoint /ˈstænd.pɔɪnt/
+Meaning: a set of beliefs and ideas from which opinions and decisions are formed
+Sentence: He looks at things from a technological standpoint
 
 stem /stem/
 Meaning: to stop something unwanted from spreading or increasing
@@ -63,7 +65,9 @@ Meaning: to reduce or remove the effect of something unwanted by producing an op
 Sentence: Drinking a lot of water counteracts the dehydrating effects of hot weather.
 ----------------------------------------
 31/10
-dementia
+dementia /dɪˈmen.ʃə/
+Meaning: a medical condition that affects especially old people, causing the memory and other mental abilities to gradually become worse, and leading to confused behaviour
+Sentence: The most common form of dementia is Alzheimer's disease
 
 deterioration /dɪˌtɪr.i.əˈreɪ.ʃən/
 Meaning: the fact or process of becoming worse
@@ -74,7 +78,9 @@ Meaning: to recognize and name the exact character of a disease or a problem, by
 Sentence: The specialist diagnosed cancer.
 ----------------------------------------
 1/11
-disorder
+disorder /-ˈsɔːr.dɚ/
+Meaning: a state of untidiness or lack of organization
+Sentence: The opposition party have been in such disorder for so long that they pose no real threat to the present government
 
 gravity /ˈɡræv.ə.t̬i/
 Meaning: the force that attracts objects towards one another, especially the force that makes things fall to the ground
