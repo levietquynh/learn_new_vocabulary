@@ -54,7 +54,9 @@ Meaning: the total amount that can be contained or produced
 Sentence: The stadium has a seating capacity of 50,000.
 ----------------------------------------
 30/10
-cognition
+cognition /kɑːɡ-/
+Meaning: the use of conscious mental processes
+Sentence: A book on human learning, memory, and cognition
 
 concentration /ˌkɑːn.sənˈtreɪ.ʃən/
 Meaning: the ability to think carefully about something you are doing and nothing else
