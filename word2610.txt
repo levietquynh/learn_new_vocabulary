@@ -51,7 +51,10 @@ Sentence: The stadium has a seating capacity of 50,000.
 ----------------------------------------
 30/10
 cognition
-concentration
+
+concentration /ˌkɑːn.sənˈtreɪ.ʃən/
+Meaning: the ability to think carefully about something you are doing and nothing else
+Sentence: The noise outside made concentration difficult.
 
 counteract - verb - /ˌkaʊn.t̬ɚˈækt/
 Meaning: to reduce or remove the effect of something unwanted by producing an opposite effect
@@ -59,7 +62,10 @@ Sentence: Drinking a lot of water counteracts the dehydrating effects of hot wea
 ----------------------------------------
 31/10
 dementia
-deterioration
+
+deterioration /dɪˌtɪr.i.əˈreɪ.ʃən/
+Meaning: the fact or process of becoming worse
+Sentence: We've seen a deterioration in relations between the countries.
 
 diagnose - verb - /ˌdaɪ.əɡˈnoʊz/
 Meaning: to recognize and name the exact character of a disease or a problem, by examining it
@@ -67,7 +73,10 @@ Sentence: The specialist diagnosed cancer.
 ----------------------------------------
 1/11
 disorder
-gravity
+
+gravity /ˈɡræv.ə.t̬i/
+Meaning: the force that attracts objects towards one another, especially the force that makes things fall to the ground
+Sentence: the laws of gravity
 
 impaired - adj -  /ɪmˈperd/
 Meaning: damaged in a way that makes something less effective
