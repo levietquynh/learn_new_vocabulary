@@ -4,12 +4,17 @@ Meaning: to show, point, or make clear in another way
 Sentence: Exploratory investigations have indicated large amounts of oil below the sea bed
 
 link
-mood
+
+(Nhựt) mood - noun - /muːd/
+Meaning: the way you feel at a particular time
+Sentence: She's in a good/bad mood.
 
 03/11
 previously
 regulate
-rodent
+(Nhựt) rodent - noun - /ˈroʊ.dənt/
+Meaning: any of various small mammals with large, sharp front teeth, such as mice and rats
+Sentence: They expect to catch rodents, mostly mice.
 
 04/11
 spatial
