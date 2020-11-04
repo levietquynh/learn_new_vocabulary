@@ -27,7 +27,10 @@ Sentence: They expect to catch rodents, mostly mice.
 04/11
 spatial
 stave off
-stimulate
+
+(Nhựt) stimulate - verb - /ˈstɪm.jə.leɪt/
+Meaning: to encourage something to grow, develop, or become active
+Sentence: The government plans to cut taxes in order to stimulate the economy.
 
 05/11
 absorb
