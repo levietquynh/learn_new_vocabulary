@@ -25,7 +25,9 @@ Meaning: any of various small mammals with large, sharp front teeth, such as mic
 Sentence: They expect to catch rodents, mostly mice.
 
 04/11
-spatial
+spatial - adj -  /ˈspeɪ.ʃəl/
+Meaning: relating to the position, area, and size of things
+Sentence: This task is designed to test children's spatial awareness
 
 stave off - phrasal verb 
 Meaning: to stop something bad from happening, or to keep an unwanted situation or person away, usually temporarily
@@ -36,7 +38,10 @@ Meaning: to encourage something to grow, develop, or become active
 Sentence: The government plans to cut taxes in order to stimulate the economy.
 
 05/11
-absorb
+absorb - verb - /əbˈzɔːrb/
+Meaning: to take something in, especially gradually
+Sentence: Plants absorb carbon dioxide
+
 alleviate
 ascertain
 
