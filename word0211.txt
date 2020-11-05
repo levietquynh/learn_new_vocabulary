@@ -38,7 +38,10 @@ Meaning: to encourage something to grow, develop, or become active
 Sentence: The government plans to cut taxes in order to stimulate the economy.
 
 05/11
-absorb
+absorb - verb - /əbˈzɔːrb/
+Meaning: to take something in, especially gradually
+Sentence: Plants absorb carbon dioxide
+
 alleviate
 ascertain
 
