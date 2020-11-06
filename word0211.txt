@@ -50,7 +50,10 @@ Sentence: The drugs did nothing to alleviate her pain/suffering
 Meaning: to discover something
 Sentence: The police have so far been unable to ascertain the cause of the explosion.
 06/11
-chronic
+chronic - adj - /ˈkrɑː.nɪk/
+Meaning: (especially of a disease or something bad) continuing for a long time
+Sentence: There is a chronic shortage of teachers
+
 combat
 
 (Nhựt) culture - noun - /ˈkʌl.tʃɚ/
