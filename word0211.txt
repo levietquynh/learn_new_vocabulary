@@ -64,7 +64,10 @@ Sentence: She's studying modern Japanese language and culture
 
 07/11
 deem
-desirable
+
+desirable  /dɪˈzaɪr.ə.bəl/
+Meaning: worth having and wanted by most people
+Sentence: Reducing class sizes in schools is a desirable aim.
 
 (Nhựt) enhance - verb - /ɪnˈhæns/
 Meaning: to improve the quality, amount, or strength of something
@@ -72,7 +75,9 @@ Sentence: It's things like this that enhance the quality of life.
 
 08/11
 fraction
-interval
+interval /ˈɪn.t̬ɚ.vəl/
+Meaning: a period between two events or times
+Sentence: We see each other at regular intervals - usually about once a month.
 
 (Nhựt) investigation - noun - /ɪnˌves.təˈɡeɪ.ʃən/
 Meaning: the act or process of examining a crime, problem, statement, etc. carefully, especially to discover the truth
