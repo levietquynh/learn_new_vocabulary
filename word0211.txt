@@ -63,9 +63,15 @@ Sentence: She's studying modern Japanese language and culture
 07/11
 deem
 desirable
-enhance
+
+(Nhựt) enhance - verb - /ɪnˈhæns/
+Meaning: to improve the quality, amount, or strength of something
+Sentence: It's things like this that enhance the quality of life.
 
 08/11
 fraction
 interval
-investigation
+
+(Nhựt) investigation - noun - /ɪnˌves.təˈɡeɪ.ʃən/
+Meaning: the act or process of examining a crime, problem, statement, etc. carefully, especially to discover the truth
+Sentence: An investigation has been under way for several days into the disappearance of a 13-year-old boy.
