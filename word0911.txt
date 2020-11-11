@@ -1,5 +1,7 @@
 09/11
-manufacture
+manufacture - verb - /ˌmæn.jəˈfæk.tʃɚ/
+Meaning: to produce goods in large numbers, usually in a factory using machines
+Sentence: The report notes a rapid decline in manufactured goods
 
 monitor /ˈmɑː.nə.t̬ɚ/
 Meaning: a person who has the job of watching or noticing particular things
@@ -10,7 +12,9 @@ Meaning: a result or effect of an action, situation, etc.
 Sentence: It's too early to predict the outcome of the meeting.
 
 10/11
-recur
+recur - verb - /rɪˈkɝː/
+Meaning: to happen many times or to happen again
+Sentence: The theme of freedom recurs throughout her writing
 
 substance /ˈsʌb.stəns/
 Meaning: material with particular physical characteristics
@@ -21,7 +25,10 @@ Meaning: an object shot at during shooting practice, often a circle with a patte
 Sentence: I had four shots but I didn't even hit the target. 
 
 11/11
-theoretical
+theoretical - adj - /ˌθiː.əˈret̬.kəl/
+Meaning: based on ideas or theories, rather than practical uses of something or actual events
+Sentence: The president does not want to answer any theoretical questions
+
 toxic
 accessible
 
