@@ -39,7 +39,10 @@ Sentence: The resort is easily accessible by road, rail, and air.
 
 12/11
 adventurous
-archeologist
+
+archeologist /ˌɑːr.kiˈɑː.lə.dʒɪst/
+Meaning: someone who studies the buildings, graves, tools, and other objects of people who lived in the past
+Sentence: A team of archaeologists are working on a previously undisturbed area of the abbey grounds.
 
 (Nhựt) ceremonial - adj /ˌser.ɪˈmoʊ.ni.əl/
 Meaning: related to, used in, or involving a ceremony (= a fixed set of formal acts performed on important social or religious occasions)
