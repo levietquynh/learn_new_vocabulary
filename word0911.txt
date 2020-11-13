@@ -59,9 +59,15 @@ Sentence: I can never make up stories - I have absolutely no imagination.
 14/11
 institute
 luxury
-marvel
+
+(Nhựt) marvel - verb - /ˈmɑːr.vəl/
+Meaning: to show or experience great surprise or admiration
+Sentence: I often marvel that humans can treat each other so badly.
 
 15/11
 mystery
 native
-network
+
+(Nhựt) network - noun - /ˈnet.wɝːk/
+Meaning: a large system consisting of many similar parts that are connected together to allow movement or communication between or along the parts, or between the parts and a control centre
+Sentence: Massive investment is needed to modernize the country's phone network.
