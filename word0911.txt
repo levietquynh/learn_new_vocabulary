@@ -55,7 +55,9 @@ construct - verb - /kənˈstrʌkt/
 Meaning: to build something or put together different parts to form something whole
 Sentence: The walls are constructed of concrete
 
-draw
+draw  /drɑː/
+Meaning: to make a picture of something or someone with a pencil or pen
+Sentence: Jonathan can draw very well.
 
 (Nhựt) imagination - noun - /ɪˌmædʒ.əˈneɪ.ʃən/
 Meaning: the ability to form pictures in the mind
@@ -63,7 +65,10 @@ Sentence: I can never make up stories - I have absolutely no imagination.
 
 14/11
 institute
-luxury
+
+luxury /ˈlʌk.ʃɚ.i/
+Meaning: great comfort, especially as provided by expensive and beautiful things
+Sentence: to live in luxury
 
 (Nhựt) marvel - verb - /ˈmɑːr.vəl/
 Meaning: to show or experience great surprise or admiration
@@ -71,7 +76,10 @@ Sentence: I often marvel that humans can treat each other so badly.
 
 15/11
 mystery
-native
+
+native /ˈneɪ.t̬ɪv/
+Meaning: relating to or describing someone's country or place of birth or someone who was born in a particular country or place
+Sentence: She returned to live and work in her native Japan.
 
 (Nhựt) network - noun - /ˈnet.wɝːk/
 Meaning: a large system consisting of many similar parts that are connected together to allow movement or communication between or along the parts, or between the parts and a control centre
