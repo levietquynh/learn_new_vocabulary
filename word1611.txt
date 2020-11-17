@@ -21,9 +21,9 @@ concept
 Meaning: 
 Sentence:
 
-culprit
-Meaning: 
-Sentence:
+(Nhựt) culprit - noun - /ˈkʌl.prɪt/
+Meaning: someone who has done something wrong
+Sentence: Police hope the public will help them to find the culprits.
 
 -------------------------------
 18/11
