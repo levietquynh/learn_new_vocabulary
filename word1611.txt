@@ -13,9 +13,9 @@ Sentence: Barriers have been erected all along the route the Pope will take
 
 -------------------------------
 17/11
-category
-Meaning: 
-Sentence:
+category - noun - /ˈkæt̬.ə.ɡri/
+Meaning: a type, or a group of things having some features that are the same
+Sentence: There are three categories of accommodation - standard, executive, and deluxe
 
 concept
 Meaning: 
