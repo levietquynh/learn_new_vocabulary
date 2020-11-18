@@ -35,9 +35,9 @@ destination
 Meaning: 
 Sentence:
 
-dump
-Meaning: 
-Sentence:
+(Nhut) dump - verb - /dʌmp/
+Meaning: to put down or drop something in a careless way
+Sentence: He came in with four shopping bags and dumped them on the table
 
 -------------------------------
 19/11
