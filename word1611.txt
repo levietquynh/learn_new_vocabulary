@@ -27,9 +27,9 @@ Sentence: Police hope the public will help them to find the culprits.
 
 -------------------------------
 18/11
-delicate
-Meaning: 
-Sentence:
+delicate - adj - /ˈdel.ə.kət/
+Meaning: needing careful treatment, especially because easily damaged
+Sentence: Peaches have delicate skins which are easily bruised
 
 destination /ˌdes.təˈneɪ.ʃən/
 Meaning: the place where someone is going or where something is being sent or taken
@@ -41,9 +41,9 @@ Sentence: He came in with four shopping bags and dumped them on the table
 
 -------------------------------
 19/11
-injure
-Meaning: 
-Sentence:
+injure - verb - /ˈɪn.dʒɚ/
+Meaning: to hurt or cause physical harm to a person or animal
+Sentence: A bomb exploded at the embassy, injuring several people
 
 pleasure /ˈpleʒ.ɚ/
 Meaning: enjoyment, happiness, or satisfaction, or something that gives this
@@ -55,9 +55,9 @@ Sentence: How do you intend to put these proposals into practice, Mohamed?
 
 -------------------------------
 20/11
-principle
-Meaning: 
-Sentence:
+principle - noun - /ˈprɪn.sə.pəl/
+Meaning: a basic idea or rule that explains or controls how something happens or works
+Sentence: The machine works according to the principle of electromagnetic conduction
 
 publicity
 Meaning: 
