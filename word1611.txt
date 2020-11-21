@@ -69,9 +69,9 @@ Sentence: The local council have just set up a committee to study recycling.
 
 -------------------------------
 21/11
-remote
-Meaning: 
-Sentence:
+remote - adj - /rɪˈmoʊt/
+Meaning: a remote area, house, or village is a long way from any towns or cities
+Sentence: They live in a remote corner of Scotland, miles from the nearest shop
 
 strive /straɪv/
 Meaning: to try very hard to do something or to make something happen, especially for a long time or against difficulties
@@ -83,9 +83,9 @@ Sentence: The Health clinic is relying on volunteers to run the office and answe
 
 -------------------------------
 22/11
-wary
-Meaning: 
-Sentence:
+wary - adj - /ˈwer.i/
+Meaning: not completely trusting or certain about something or someone
+Sentence: I'm a little wary of/about giving people my address when I don't know them very well
 
 wilderness /ˈwɪl.dɚ.nəs/
 Meaning: an area of land that has not been used to grow crops or had towns and roads built on it, especially because it is difficult to live in as a result of its extremely cold or hot weather or bad earth
