@@ -63,9 +63,9 @@ publicity
 Meaning: 
 Sentence:
 
-recycling
-Meaning: 
-Sentence:
+(Nhut) recycling - noun - /ˌriːˈsaɪ.klɪŋ/
+Meaning: the process of collecting and changing old paper, glass, plastic, etc. so that it can be used again
+Sentence: The local council have just set up a committee to study recycling.
 
 -------------------------------
 21/11
@@ -77,9 +77,9 @@ strive
 Meaning: 
 Sentence:
 
-volunteer
-Meaning: 
-Sentence:
+(Nhut) volunteer - noun -  /ˌvɑː.lənˈtɪr/
+Meaning: a person who does something, especially helping other people, willingly and without being forced or paid to do it
+Sentence: The Health clinic is relying on volunteers to run the office and answer the phones.
 
 -------------------------------
 22/11
@@ -91,6 +91,6 @@ wilderness
 Meaning: 
 Sentence:
 
-accquire
-Meaning: 
-Sentence:
+(Nhut) acquire - verb - /əˈkwaɪɚ/
+Meaning: to get or buy something
+Sentence: He acquired the firm in 2008
