@@ -12,7 +12,10 @@ Sentence: We want to preserve the character of the town while improving the faci
 -------------------------------
 24/11
 restriction
-site
+
+site /saɪt/
+Meaning: a place where something is, was, or will be built, or where something happened, is happening, or will happen
+Sentence: The company hasn't yet chosen the site for the new hospital.
 
 (Nhut) spectacular - adj - /spekˈtæk.jə.lɚ/
 Meaning: very exciting to look at
