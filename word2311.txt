@@ -29,7 +29,10 @@ Sentence: He scored a spectacular goal in the second half.
 25/11
 upside
 breeze
-broad
+
+(Nhut) broad - adj -  /brɑːd/
+Meaning: very wide
+Sentence: We walked down a broad avenue lined with trees.
 
 -------------------------------
 26/11
