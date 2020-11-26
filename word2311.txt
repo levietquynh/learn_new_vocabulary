@@ -30,7 +30,10 @@ Sentence: He scored a spectacular goal in the second half.
 upside - noun - /ˈʌp.saɪd/
 Meaning: the advantage of a situation
 Sentence: It's annoying that we can't travel until Thursday, but the upside is that tickets are cheaper then.
-breeze
+
+(Nhut) breeze - noun - /briːz/
+Meaning: a light and pleasant wind
+Sentence: She let the gentle breeze cool her face.
 
 (Nhut) broad - adj -  /brɑːd/
 Meaning: very wide
@@ -40,7 +43,10 @@ Sentence: We walked down a broad avenue lined with trees.
 26/11
 budget
 colorful
-content
+
+(Nhut) content - adj - /kənˈtent/
+Meaning: pleased with your situation and not hoping for change or improvement
+Sentence: They're content to socialize with a very small circle of people.
 
 -------------------------------
 27/11
