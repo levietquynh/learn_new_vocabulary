@@ -45,7 +45,9 @@ budget - noun - /ˈbʌdʒ.ɪt/
 Meaning: a plan to show how much money a person or organization will earn and how much they will need or be able to spend
 Sentence: The firm has drawn up a budget for the coming financial year
 
-colorful
+(Nhut) colorful - adj - /ˈkʌl.ɚ.fəl/
+Meaning: having a lot of variety and therefore interesting
+Sentence: He had a colorful past and could tell some amusing stories.
 
 (Nhut) content - adj - /kənˈtent/
 Meaning: pleased with your situation and not hoping for change or improvement
@@ -54,8 +56,14 @@ Sentence: They're content to socialize with a very small circle of people.
 -------------------------------
 27/11
 costly
-cuisine
-economical
+
+(Nhut) cuisine - noun - /kwɪˈziːn/
+Meaning: a style of cooking
+Sentence: In an ideal world, most people would prefer gourmet cuisine, but it is costly and difficult to prepare. 
+
+(Nhut) economical - adj - /ˌiː.kəˈnɑː.mɪ.kəl/
+Meaning: not using a lot of fuel, money, etc
+Sentence: There's increasing demand for cars that are more economical on fuel.
 
 -------------------------------
 28/11
