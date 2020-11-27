@@ -41,7 +41,10 @@ Sentence: We walked down a broad avenue lined with trees.
 
 -------------------------------
 26/11
-budget
+budget - noun - /ˈbʌdʒ.ɪt/
+Meaning: a plan to show how much money a person or organization will earn and how much they will need or be able to spend
+Sentence: The firm has drawn up a budget for the coming financial year
+
 colorful
 
 (Nhut) content - adj - /kənˈtent/
