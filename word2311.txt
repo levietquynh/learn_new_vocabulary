@@ -73,8 +73,13 @@ endeavor - verb - /enˈdev.ər/
 Meaning: to try to do something
 Sentence: Engineers are endeavoring to locate the source of the problem
 
-enroll
-hone
+(Nhut) enroll - verb - /ɪnˈrəʊl/
+Meaning: to put yourself or someone else onto the official list of members of a course, college, or group
+Sentence: He is enrolled as a part-time student.
+
+(Nhut) hone - verb - /hoʊn/
+Meaning: to make an object sharp
+Sentence: The bone had been honed to a point.
 
 -------------------------------
 29/11
@@ -82,6 +87,14 @@ ingredient - noun - /ɪnˈɡriː.di.ənt/
 Meaning: a food that is used with other foods in the preparation of a particular dish
 Sentence: The list of ingredients included 250 g of almonds
 
-ongoing
-residential
-resort
+(Nhut) ongoing - adj - /ˈɑːnˌɡoʊ.ɪŋ/
+Meaning: continuing to exist or develop, or happening at the present moment
+Sentence: No agreement has yet been reached and the negotiations are still ongoing.
+
+(Nhut) residential - adj - /ˌrez.əˈden.ʃəl/
+Meaning: relating to where you live or have lived
+Sentence: You must satisfy the residential qualifications to get a work permit.
+
+(Nhut) resort - noun - /rɪˈzɔːrt/
+Meaning: a place where many people go for rest, sport, or another stated purpose
+Sentence: Rimini is a thriving holiday resort on the east coast of Italy.
