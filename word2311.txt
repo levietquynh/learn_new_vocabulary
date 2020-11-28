@@ -55,7 +55,9 @@ Sentence: They're content to socialize with a very small circle of people.
 
 -------------------------------
 27/11
-costly
+costly - adj - /ˈkɑːst.li/
+Meaning: expensive, especially too expensive
+Sentence: The project was subject to several costly delays
 
 (Nhut) cuisine - noun - /kwɪˈziːn/
 Meaning: a style of cooking
@@ -67,13 +69,19 @@ Sentence: There's increasing demand for cars that are more economical on fuel.
 
 -------------------------------
 28/11
-endeavor
+endeavor - verb - /enˈdev.ər/
+Meaning: to try to do something
+Sentence: Engineers are endeavoring to locate the source of the problem
+
 enroll
 hone
 
 -------------------------------
 29/11
-ingredient
+ingredient - noun - /ɪnˈɡriː.di.ənt/
+Meaning: a food that is used with other foods in the preparation of a particular dish
+Sentence: The list of ingredients included 250 g of almonds
+
 ongoing
 residential
 resort
