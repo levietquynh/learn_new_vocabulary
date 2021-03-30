@@ -1,0 +1,22 @@
+- How to push a file to remote repo
+    First, get project from remote repo with command:
+        git clone https://github.com/quynhlev/learn_new_vocabulary.git
+    Create a new file (gitCMD.txt) and push to remote repo with the commands:
+        git checkout -b vubr    -> Create a new branch
+        code .   -> Open visual code, create and enter data
+        git status    -> To know the modified status information before performing the commit
+        git add gitCMD.txt     -> Add all file in folder to commit
+        git commit -m "Report git cmd"   -> To save data to the Git update to the last commit
+        git push origin vubr   -> Push a file to vubr branch remote repo
+- How to pull a file from remote repo to local
+        git pull origin vubr  -> Get information from remote and update to the branch of local repo.
+- How to rebase
+    rebase: (conflict)
+        git checkout master  -> Switch to master branch
+        git pull  -> Get information from remote and update to local repo.
+        git checkout vubr  -> Switch to master branch
+        git rebase master   -> Yo reapply new commits in one branch on top of another branch.
+        code .  -> resolve conflict
+        git add gitCMD.txt     -> Add all file in folder to commit
+        git commit -m "new"
+        git push origin --force vubr   -> Branch override
